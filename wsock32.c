@@ -1,8 +1,10 @@
 // Wrapper for wsock32.dll - C++ Source Code - 75 exports
 // Original author unknown.
+// Modified by NuWON Development Team. 
+// 7/29/2021
 
-//Scroll to recvfrom in order to enable,disable logging or certain
-//filters.
+//Scroll to sys_inet_ntoa to view the functions involved with this patch.
+
 
 #include <windows.h>
 #include <stdio.h>
